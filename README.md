@@ -1,9 +1,9 @@
 # Claude Codeでニンジャスレイヤーのサイバーパンク都市とPVを作ってみた
 
-[![Claude Code Opus 5.5 で ニンジャスレイヤーの PV作ってみた](media/thumbnail.png)](https://kasei-san.github.io/neosaitama/pv.html)
+[![Claude Code Opus 5.5 で ニンジャスレイヤーの PV作ってみた](media/thumbnail.png)](https://kasei-san.com/neosaitama/pv.html)
 
-- ▶ **PVを見る（ブラウザで再生・音あり）**: https://kasei-san.github.io/neosaitama/pv.html
-- 🌃 **街だけを眺める**: https://kasei-san.github.io/neosaitama/
+- ▶ **PVを見る（ブラウザで再生・音あり）**: https://kasei-san.com/neosaitama/pv.html
+- 🌃 **街だけを眺める**: https://kasei-san.com/neosaitama/
 - 🎬 **mp4（1280×720・58秒）**: [media/neo-saitama-pv.mp4](media/neo-saitama-pv.mp4)
 
 > [!NOTE]
