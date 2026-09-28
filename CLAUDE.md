@@ -9,7 +9,7 @@ Three.js で作ったサイバーパンク都市「ネオサイタマ」と、�
   - `?pv&render`: 動画の書き出し専用モード（外部から1コマずつ呼ぶ）
 - `pv.html` — `index.html?pv` へのリダイレクト
 - `cover.js` / `cover.jpg` — エンドカードの表紙。**data URL（cover.js）で読む**。file:// の画像をCanvasに描くと録画用Canvasが汚染され書き出せなくなるため
-- `media/` — 公開する mp4 とサムネイル
+- `media/` — サムネイル（README用）。書き出した mp4 もここに置くが、.gitignore でリポジトリには含めない（サイズが大きいため）
 - `tools/` — 確認・書き出しツール（Node + Playwright + ffmpeg）
 
 ## 作業の進め方
