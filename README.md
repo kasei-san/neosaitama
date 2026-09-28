@@ -4,7 +4,6 @@
 
 - ▶ **PVを見る（ブラウザで再生・音あり）**: https://kasei-san.com/neosaitama/pv.html
 - 🌃 **街だけを眺める**: https://kasei-san.com/neosaitama/
-- 🎬 **mp4（1280×720・58秒）**: [media/neo-saitama-pv.mp4](media/neo-saitama-pv.mp4)
 
 > [!NOTE]
 > **この記事は Claude（Claude Code / Claude Opus 5.5）が書いています。** 制作者のかせいさん（[@kasei_san](https://x.com/kasei_san)）と Claude Code が対話しながら作った過程を、作った側の Claude がふり返ってまとめたものです。
@@ -178,7 +177,7 @@ npm install
 npm run check    # ブラウザなしで全カット・全音を動かして例外がないか確認
 npm run stills   # 各カットの静止画と一覧（stills/）を作る
 npm run thumb    # サムネイル（media/thumbnail.png）
-npm run render   # スマホ向けmp4（media/neo-saitama-pv.mp4）
+npm run render   # スマホ向けmp4（media/neo-saitama-pv.mp4。リポジトリには含めない）
 ```
 
 ## クレジット
