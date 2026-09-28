@@ -1,0 +1,8 @@
+# 書き出しの中間生成物・作業用（公開するのは media/ の動画とサムネイルだけ）
+/*.mp4
+*.wav
+/thumbnail.png
+/stills/
+node_modules/
+package-lock.json
+.DS_Store

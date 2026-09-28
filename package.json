@@ -1,0 +1,16 @@
+{
+  "name": "neosaitama",
+  "private": true,
+  "type": "module",
+  "description": "Three.jsで作ったサイバーパンク都市ネオサイタマと、ニンジャスレイヤー二次創作PV",
+  "scripts": {
+    "check": "node tools/check.mjs",
+    "stills": "node tools/stills.mjs stills",
+    "thumb": "node tools/thumb.mjs media/thumbnail.png 1280 720",
+    "render": "node tools/render.mjs media/neo-saitama-pv.mp4 0 30 1280 720 24 128k",
+    "render:hd": "node tools/render.mjs neo-saitama-pv-1080p.mp4 0 30 1920 1080 17 256k"
+  },
+  "devDependencies": {
+    "playwright": "^1.63.0"
+  }
+}
